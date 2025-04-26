@@ -1,0 +1,39 @@
+{
+  "filename": "我在 DeepSeek 世界里探索了一周，分享3个万能公式.pdf",
+  "total_chunks": 3,
+  "total_pages": 3,
+  "loading_method": "pymupdf",
+  "loading_strategy": null,
+  "chunking_strategy": null,
+  "chunking_method": "loaded",
+  "timestamp": "2025-04-12T07:42:05.034397",
+  "chunks": [
+    {
+      "content": "我在DeepSeek 世界里探索了一周，分享\n3 个万能公式\n这个春节和往年不一样，你一定要做一件事\n情，就是熟练掌握DeepSeek ，否则复工\n后，你就傻眼了\n我在DeepSeek 世界里探索了一周，分享\n3 个万能公式，就能让普通人把DeepSeek\n用到炉火纯青了。\n………………\n1、句式1：我是谁+背景信息+我的目标+\n目前的顾虑\n请忘记你脑子里那些规规矩矩的提示词模\n板，只需要把DeepSeek 当作一个很牛逼",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 19
+      }
+    },
+    {
+      "content": "的同伴。还要尽量隐去一些“可有可无的信\n息”，DeepSeek 是一个聪明人，太多条条\n框框反而会限制它的“创造力”。给到它基本\n信息，让DeepSeek 尽可能去创造吧！\n2、句式2：说人话/ 我是一个宝宝\n如果DeepSeek 给你反馈的文本看不懂，\n你可以对它说两句话（择其一就行）：\n1）说人话\n2）我是一个宝宝（or 我是一个小学生）\n3、句式3：让DeepSeek 深度思考的一\n组咒语",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 17
+      }
+    },
+    {
+      "content": "DeepSeek 最擅长的是推理，所以尽可能\n拉长它思考的时间，思考时间越长，给出的\n答案更“有人味、更有洞见、更有启发”，让\nDeepSeek 深度思考的一组咒语，共有3\n句，且步步深入：\n1）请你在思考过程中，边思考边进行“自我\n反驳”至少15 轮\n2）请你在思考过程中，边思考边进行“站在\n反方立场进行辩驳”至少15 轮\n3）请你在思考过程中，边思考边进行“对自\n己的思考进行思考”至少15 轮\n这样一来，你就能把DeepSeek 深度思考\n时间迅速拉长，得到的答案相应的也会更让\n你惊喜。",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 20
+      }
+    }
+  ]
+}

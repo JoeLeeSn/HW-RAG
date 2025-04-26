@@ -1,0 +1,49 @@
+{
+  "query": "句式1是啥？\n",
+  "collection_id": "wo_zai_deepseek_shi_jie_li_tan_suo_le_yi_zhou_fen_xiang_3_ge_wan_neng_gong_shi_huggingface_20250412090019",
+  "timestamp": "2025-04-12T09:07:14.174559",
+  "results": [
+    {
+      "text": "DeepSeek 最擅长的是推理，所以尽可能\n拉长它思考的时间，思考时间越长，给出的\n答案更“有人味、更有洞见、更有启发”，让\nDeepSeek 深度思考的一组咒语，共有3\n句，且步步深入：\n1）请你在思考过程中，边思考边进行“自我\n反驳”至少15 轮\n2）请你在思考过程中，边思考边进行“站在\n反方立场进行辩驳”至少15 轮\n3）请你在思考过程中，边思考边进行“对自\n己的思考进行思考”至少15 轮\n这样一来，你就能把DeepSeek 深度思考\n时间迅速拉长，得到的答案相应的也会更让\n你惊喜。",
+      "score": 0.48164454102516174,
+      "metadata": {
+        "source": "我在 DeepSeek 世界里探索了一周，分享3个万能公式.pdf",
+        "page": "3",
+        "chunk": 3,
+        "total_chunks": 3,
+        "page_range": "3",
+        "embedding_provider": "huggingface",
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "embedding_timestamp": "2025-04-12T08:17:54.910251"
+      }
+    },
+    {
+      "text": "我在DeepSeek 世界里探索了一周，分享\n3 个万能公式\n这个春节和往年不一样，你一定要做一件事\n情，就是熟练掌握DeepSeek ，否则复工\n后，你就傻眼了\n我在DeepSeek 世界里探索了一周，分享\n3 个万能公式，就能让普通人把DeepSeek\n用到炉火纯青了。\n………………\n1、句式1：我是谁+背景信息+我的目标+\n目前的顾虑\n请忘记你脑子里那些规规矩矩的提示词模\n板，只需要把DeepSeek 当作一个很牛逼",
+      "score": 0.40393245220184326,
+      "metadata": {
+        "source": "我在 DeepSeek 世界里探索了一周，分享3个万能公式.pdf",
+        "page": "1",
+        "chunk": 1,
+        "total_chunks": 3,
+        "page_range": "1",
+        "embedding_provider": "huggingface",
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "embedding_timestamp": "2025-04-12T08:17:54.481115"
+      }
+    },
+    {
+      "text": "的同伴。还要尽量隐去一些“可有可无的信\n息”，DeepSeek 是一个聪明人，太多条条\n框框反而会限制它的“创造力”。给到它基本\n信息，让DeepSeek 尽可能去创造吧！\n2、句式2：说人话/ 我是一个宝宝\n如果DeepSeek 给你反馈的文本看不懂，\n你可以对它说两句话（择其一就行）：\n1）说人话\n2）我是一个宝宝（or 我是一个小学生）\n3、句式3：让DeepSeek 深度思考的一\n组咒语",
+      "score": 0.3889964818954468,
+      "metadata": {
+        "source": "我在 DeepSeek 世界里探索了一周，分享3个万能公式.pdf",
+        "page": "2",
+        "chunk": 2,
+        "total_chunks": 3,
+        "page_range": "2",
+        "embedding_provider": "huggingface",
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "embedding_timestamp": "2025-04-12T08:17:54.671303"
+      }
+    }
+  ]
+}

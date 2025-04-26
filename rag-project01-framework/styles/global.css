@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #1E40AF; /* 主要颜色 */
+  --secondary-color: #60A5FA; /* 次要颜色 */
+  --background-color: #FFFFFF; /* 背景色 */
+  --text-color: #1F2937; /* 文字颜色 */
+  --error-color: #EF4444; /* 错误颜色 */
+  --success-color: #22C55E; /* 成功颜色 */
+} 

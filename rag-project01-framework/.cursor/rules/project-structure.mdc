@@ -1,0 +1,23 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 项目结构指南
+
+这是一个基于 RAG (Retrieval-Augmented Generation) 的框架项目，采用前后端分离架构。
+
+## 主要目录结构
+- [frontend/](mdc:frontend) - 前端代码目录
+- [backend/](mdc:backend) - 后端代码目录
+- [01-chunked-docs/](mdc:01-chunked-docs) - 分块文档存储目录
+- [02-embedded-docs/](mdc:02-embedded-docs) - 嵌入式文档存储目录
+- [styles/](mdc:styles) - 样式文件目录
+- [images/](mdc:images) - 图片资源目录
+
+## 核心配置文件
+- [requirements_mac.txt](mdc:requirements_mac.txt) - Mac 环境依赖配置
+- [requirements_win.txt](mdc:requirements_win.txt) - Windows 环境依赖配置
+- [requirements_ubun.txt](mdc:requirements_ubun.txt) - Ubuntu 环境依赖配置
+- [package.json](mdc:package.json) - Node.js 项目配置
+- [tailwind.config.js](mdc:tailwind.config.js) - Tailwind CSS 配置
